@@ -14,6 +14,12 @@
   "inheritedOverrides": {
     "info-description": {
       "severity": "off"
+    },
+    "info-license": {
+      "severity": "off"
+    },
+    "info-contact": {
+      "severity": "off"
     }
   },
   "extendedDefault": false
