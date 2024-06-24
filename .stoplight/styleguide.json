@@ -20,6 +20,9 @@
     },
     "info-contact": {
       "severity": "off"
+    },
+    "oas3-unused-component": {
+      "severity": "off"
     }
   },
   "extendedDefault": false
